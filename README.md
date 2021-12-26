@@ -1,7 +1,7 @@
 # Curso de Laravel 8
 ## Victor Hernan Arana Flores (Coders Free)
 
-[Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)
+### [Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)
 
 ### Lista de aulas  
 
