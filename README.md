@@ -1,3 +1,39 @@
+# Curso de Laravel 8
+## Victor Hernan Arana Flores (Coders Free)
+
+[Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)
+
+### Lista de aulas  
+
+Aula 01 - Instalação  
+Aula 02 - Rotas  
+Aula 03 - Controllers  
+Aula 04 - Views  
+Aula 05 - Introdução a manipulação de base de dados  
+Aula 06 - Introdução às migrations  
+Aula 07 - Como criar migrations em Laravel  
+Aula 08 - Modificando tabelas com migrations Laravel  
+Aula 09 - Introdução a ORM Eloquent  
+Aula 10 - Seeders  
+Aula 11 - Factory  
+Aula 12 - Gerador de consultas do Eloquent  
+Aula 13 - Como listar e exibir registros em Laravel  
+Aula 14 - Como adicionar e atualizar registros a partir de um formulário  
+Aula 15 - Como validar formulários em Laravel  
+Aula 16 - O que são os Form Request  
+Aula 17 - O que é mass assignment (atribuição massiva)  
+Aula 18 - Como excluir um registro da base de dados  
+Aula 19 - Como criar rotas com route resource  
+Aula 20 - Como gerar url's amigáveis  
+Aula 21 - Adicionar um menu de navegação  
+Aula 22 - Como enviar emails com Laravel  
+Aula 23 - Como criar um formulário de contato  
+Aula 24 - Laravel Jetstream  
+Aula 25 - Componentes blade (de classe)  
+Aula 26 - Componentes blade (anônimos)  
+Aula 27 - Como modificar o template padrão do Jetstream  
+Aula 28 - O que são os middlewares  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
