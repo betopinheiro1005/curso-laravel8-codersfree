@@ -1,9 +1,13 @@
 # Curso de Laravel 8
 ## Coders Free (Victor Hernan Arana Flores)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=A-BL8Ir7puE&list=PLZ2ovOgdI-kWWS9aq8mfUDkJRfYib-SvF)  
 
 Aula 01 - Instalação  
 Aula 02 - Rotas  
